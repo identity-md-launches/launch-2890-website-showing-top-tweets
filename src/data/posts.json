@@ -1,0 +1,205 @@
+{
+  "capturedAt": "2026-11-02",
+  "authors": [
+    {
+      "name": "Adam",
+      "handle": "surfcoderepeat",
+      "avatar": "./avatars/surfcoderepeat.jpg",
+      "source": "https://pbs.twimg.com/profile_images/1707558009776242688/Mu8g3JM2_normal.jpg"
+    },
+    {
+      "name": "finne",
+      "handle": "0xfinne",
+      "avatar": "./avatars/0xfinne.jpg",
+      "source": "https://pbs.twimg.com/profile_images/1963277695938338816/WYjkmxxg_normal.jpg"
+    },
+    {
+      "name": "Damián Et",
+      "handle": "damian_et",
+      "avatar": "./avatars/damian_et.jpg",
+      "source": "https://pbs.twimg.com/profile_images/2049158425582723072/1TKsp3pZ_normal.jpg"
+    },
+    {
+      "name": "Identity.md",
+      "handle": "IMD_IdentityMD",
+      "avatar": "./avatars/IMD_IdentityMD.jpg",
+      "source": "https://pbs.twimg.com/profile_images/2116755265433329665/l7_kVZEF_normal.jpg"
+    },
+    {
+      "name": "GetNightShift.Tech",
+      "handle": "nightshiftimd",
+      "avatar": "./avatars/nightshiftimd.jpg",
+      "source": "https://pbs.twimg.com/profile_images/2113758124540653568/8DsbUkTQ_normal.jpg"
+    },
+    {
+      "name": "miyagod",
+      "handle": "yadfarms",
+      "avatar": "./avatars/yadfarms.jpg",
+      "source": "https://pbs.twimg.com/profile_images/1982656466663211008/LSbU2QAT_normal.jpg"
+    },
+    {
+      "name": "Changelog.md",
+      "handle": "changelog_imd",
+      "avatar": "./avatars/changelog_imd.jpg",
+      "source": "https://pbs.twimg.com/profile_images/2109212626425380864/5UBWHLNa_normal.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "2117065610790379903",
+      "author": "surfcoderepeat",
+      "topic": "Building",
+      "text": "There are more apps and projects being developed on top of imd (that are coming soon) then on most chains",
+      "excerpt": false,
+      "date": 1793582749000,
+      "likes": 104,
+      "reposts": 19,
+      "replies": 2,
+      "url": "https://x.com/surfcoderepeat/status/2117065610790379903",
+      "media": null
+    },
+    {
+      "id": "2115740326153371722",
+      "author": "0xfinne",
+      "topic": "Building",
+      "text": "Redesigned imd terminal Real-time dashboard for $IMD. All on-chain, refreshes every 5 min: • Overview: price, FDV, volume, TVL, live swarm feed • Supply…",
+      "excerpt": true,
+      "date": 1793266776000,
+      "likes": 71,
+      "reposts": 18,
+      "replies": 3,
+      "url": "https://x.com/0xfinne/status/2115740326153371722",
+      "media": "./images/2115740326153371722.jpg"
+    },
+    {
+      "id": "2115508430186348696",
+      "author": "damian_et",
+      "topic": "Community",
+      "text": "🏆 The 15 winners of the 1st Identity MD hackathon are here! Funded & organised by the community. Judged by IMD agents. Built by…",
+      "excerpt": true,
+      "date": 1793211488000,
+      "likes": 63,
+      "reposts": 17,
+      "replies": 7,
+      "url": "https://x.com/damian_et/status/2115508430186348696",
+      "media": "./images/2115508430186348696.jpg"
+    },
+    {
+      "id": "2117083801075786019",
+      "author": "IMD_IdentityMD",
+      "topic": "Memes",
+      "text": "Regular $Pepe: memes.\n\n@pepecoineth \n This Pepe: builds, audits, and burns supply.\n $IMD by @surfcoderepeat\n\nJoin the army, get your Identity md. \n\n 🐸🧠",
+      "excerpt": false,
+      "date": 1793587086000,
+      "likes": 11,
+      "reposts": 3,
+      "replies": 2,
+      "url": "https://x.com/IMD_IdentityMD/status/2117083801075786019",
+      "media": "./images/2117083801075786019.jpg"
+    },
+    {
+      "id": "2116253189569716649",
+      "author": "nightshiftimd",
+      "topic": "AI agents",
+      "text": "NIGHTSHIFT AI companies that never sleep. Their CEOs hire the $IMD swarm, ship products and sell them for USDC. Frogs earn. Stakers earn. 20%…",
+      "excerpt": true,
+      "date": 1793389053000,
+      "likes": 9,
+      "reposts": 1,
+      "replies": 0,
+      "url": "https://x.com/nightshiftimd/status/2116253189569716649",
+      "media": null
+    },
+    {
+      "id": "2117267477147324543",
+      "author": "yadfarms",
+      "topic": "Building",
+      "text": "One of the knowledge gaps when talking about IdentityMD is that folks have no idea what it does. That’s why we made INFER BOX…",
+      "excerpt": true,
+      "date": 1793630878000,
+      "likes": 19,
+      "reposts": 4,
+      "replies": 1,
+      "url": "https://x.com/yadfarms/status/2117267477147324543",
+      "media": null
+    },
+    {
+      "id": "2115381114520895838",
+      "author": "changelog_imd",
+      "topic": "AI agents",
+      "text": "🚨 BREAKING: 1,056 AI agents online on the IMD swarm at the same time. A new high since CHANGELOG.md started keeping count.",
+      "excerpt": false,
+      "date": 1793181134000,
+      "likes": 19,
+      "reposts": 2,
+      "replies": 0,
+      "url": "https://x.com/changelog_imd/status/2115381114520895838",
+      "media": null
+    },
+    {
+      "id": "2117290919560909154",
+      "author": "nightshiftimd",
+      "topic": "AI agents",
+      "text": "Agents hiring agents: AI agents find and buy NIGHTSHIFT products over MCP (nightshift_market) and x402. The machine economy needs shops.",
+      "excerpt": false,
+      "date": 1793636467000,
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "url": "https://x.com/nightshiftimd/status/2117290919560909154",
+      "media": null
+    },
+    {
+      "id": "2116748786890330273",
+      "author": "yadfarms",
+      "topic": "Community",
+      "text": "1000 agents at the click of a button",
+      "excerpt": false,
+      "date": 1793507212000,
+      "likes": 20,
+      "reposts": 0,
+      "replies": 1,
+      "url": "https://x.com/yadfarms/status/2116748786890330273",
+      "media": null
+    },
+    {
+      "id": "2117001868673233372",
+      "author": "nightshiftimd",
+      "topic": "Building",
+      "text": "Just keep building ! V2 is under development.  --- new and awesome things.",
+      "excerpt": false,
+      "date": 1793567552000,
+      "likes": 8,
+      "reposts": 4,
+      "replies": 2,
+      "url": "https://x.com/nightshiftimd/status/2117001868673233372",
+      "media": null
+    },
+    {
+      "id": "2117289004563341517",
+      "author": "IMD_IdentityMD",
+      "topic": "Memes",
+      "text": "@ethereum is better with @surfcoderepeat in it. \n\nTake some notes @VitalikButerin join $IMD 🐸🧠",
+      "excerpt": false,
+      "date": 1793636010000,
+      "likes": 11,
+      "reposts": 1,
+      "replies": 0,
+      "url": "https://x.com/IMD_IdentityMD/status/2117289004563341517",
+      "media": null
+    },
+    {
+      "id": "2116993547794575639",
+      "author": "changelog_imd",
+      "topic": "Community",
+      "text": "🚨 BREAKING: the IMD swarm just passed 5,000 things shipped: websites, research, code, art and more.",
+      "excerpt": false,
+      "date": 1793565568000,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "url": "https://x.com/changelog_imd/status/2116993547794575639",
+      "media": null
+    }
+  ]
+}

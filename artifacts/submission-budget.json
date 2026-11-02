@@ -1,0 +1,20 @@
+{
+  "limitBytes": 8388608,
+  "totalBytes": 1673570,
+  "fileCount": 66,
+  "groups": {
+    "source": 52532,
+    "public": 362361,
+    "export": 636690,
+    "scripts": 17463,
+    "docs_and_artifacts": 560440,
+    "root_configuration": 43935,
+    "ignore_file": 149
+  },
+  "withinLimit": true,
+  "notes": [
+    "Includes complete source, lockfile, dist, local runtime assets, documentation and selected evidence.",
+    "Excludes original assignment inputs, dependency and cache directories, Git metadata and test/scratch.",
+    "No submodule, vendored registry, dependency archive or environment file was added."
+  ]
+}

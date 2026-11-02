@@ -1,0 +1,95 @@
+[
+  {
+    "name": "mobile-390",
+    "width": 390,
+    "height": 844,
+    "title": {
+      "x": 43,
+      "y": 175,
+      "width": 304,
+      "height": 71.65625
+    },
+    "browse": {
+      "x": 43,
+      "y": 313.03125,
+      "width": 141,
+      "height": 40
+    },
+    "firstPost": {
+      "x": 20,
+      "y": 575.03125,
+      "width": 350,
+      "height": 268.171875
+    },
+    "firstBookmark": {
+      "x": 314,
+      "y": 790.203125,
+      "width": 44,
+      "height": 44
+    },
+    "overflow": 0,
+    "fontLoaded": true
+  },
+  {
+    "name": "mobile-320",
+    "width": 320,
+    "height": 844,
+    "title": {
+      "x": 36,
+      "y": 175,
+      "width": 248,
+      "height": 71.65625
+    },
+    "browse": {
+      "x": 36,
+      "y": 313.03125,
+      "width": 141,
+      "height": 40
+    },
+    "firstPost": {
+      "x": 16,
+      "y": 615.03125,
+      "width": 288,
+      "height": 294.5625
+    },
+    "firstBookmark": {
+      "x": 250,
+      "y": 856.59375,
+      "width": 44,
+      "height": 44
+    },
+    "overflow": 0,
+    "fontLoaded": true
+  },
+  {
+    "name": "desktop-1440",
+    "width": 1440,
+    "height": 1000,
+    "title": {
+      "x": 290,
+      "y": 119.703125,
+      "width": 570,
+      "height": 105.59375
+    },
+    "browse": {
+      "x": 290,
+      "y": 282.296875,
+      "width": 174,
+      "height": 44
+    },
+    "firstPost": {
+      "x": 254,
+      "y": 590,
+      "width": 421,
+      "height": 262.171875
+    },
+    "firstBookmark": {
+      "x": 627,
+      "y": 807.171875,
+      "width": 36,
+      "height": 36
+    },
+    "overflow": 0,
+    "fontLoaded": true
+  }
+]

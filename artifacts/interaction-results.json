@@ -1,0 +1,121 @@
+{
+  "browser": "Chromium",
+  "base": "/pond/",
+  "checks": [
+    {
+      "name": "Static subpath loads all local runtime and share assets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "390 × 844 first screen contains product, browse action, first tweet and bookmark",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Explore the feed scrolls to the actual tweets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "All four topic filters return matching real posts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Search by author, case-insensitive text and combined topic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state explains recovery and Clear filters resets it",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Most liked and newest sort change the first post correctly",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Load more reveals all twelve posts and moves focus into new content",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Saved empty state, keyboard save, reload persistence and remove all work",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Copy link writes the original X URL to the clipboard",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "About dialog traps focus, explains data, and Escape returns focus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Clipboard rejection offers a selectable link instead of false success",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Blocked local storage preserves saves for the visit and explains the limit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "History and reload resolve the saved hash without server rewrites",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Malformed storage recovers to an empty saved collection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Layout and resources at 320, 390, 580, 720, 840, 960, 1260, 1440 and 1920 CSS pixels",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL and expanded text spacing retain content and controls",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion disables interactive transforms and animations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Desktop conversation shortcuts apply their topic filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Keyboard search focus has a visible two-pixel perimeter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "All source links are actual X post URLs and external links protect the opener",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Chromium page has no script, console, resource or external runtime failures",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 22,
+  "total": 22,
+  "errors": [],
+  "resources": [],
+  "external": []
+}

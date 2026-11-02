@@ -1,0 +1,35 @@
+[
+  {
+    "name": "mobile feed",
+    "width": 390,
+    "violations": [],
+    "incomplete": [],
+    "passes": 27
+  },
+  {
+    "name": "desktop feed",
+    "width": 1440,
+    "violations": [],
+    "incomplete": [],
+    "passes": 27
+  },
+  {
+    "name": "saved empty",
+    "width": 390,
+    "violations": [],
+    "incomplete": [],
+    "passes": 26
+  },
+  {
+    "name": "about dialog",
+    "width": 390,
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 4
+      }
+    ],
+    "passes": 15
+  }
+]
